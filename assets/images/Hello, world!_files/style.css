@@ -1,0 +1,19 @@
+.container  {
+
+    background-color: beige;
+}
+
+.col-md-12 {
+
+    border: solid;
+    height: 50px;
+}
+
+     .navbar-text  { 
+     float: right;
+     margin-right: 40px;
+     color: black;
+     
+    background-color: green;
+}
+
